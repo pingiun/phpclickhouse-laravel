@@ -9,8 +9,6 @@ Adapter to Laravel and Lumen of the most popular libraries:
 
 ## Features
 
-No dependency, only Curl (support php >=8.0 )
-
 More: https://github.com/smi2/phpClickHouse#features
 
 ## Prerequisites
